@@ -1,4 +1,4 @@
 picassomoose
 ============
 
-Picasso Template
+Picasso Template Module CM GZ
