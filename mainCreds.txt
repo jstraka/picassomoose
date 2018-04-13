@@ -1,0 +1,8 @@
+MWP Prod Admin
+usr:memberzonesiteadmin
+pswd:72bVi45z7HwuDJZm98
+
+MWP Dev Admin
+usr: admin
+pswd: ninjacat
+
